@@ -41,8 +41,8 @@ still does real semantic work for the reader, human or agent.
 Two identically-informative strings —
 
 ```text
-Owner: 🔱A♥️
-@🔱A♥️
+Owner: <card-id>
+@<card-id>
 ```
 
 — are not interchangeable, even though both name the same card and both are

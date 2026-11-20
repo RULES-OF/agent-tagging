@@ -30,6 +30,5 @@ encountered?**
 
 *Domain formalized: 2026-08-04, extracted from a live audit of eight distinct
 tagging/discovery mechanisms found in actual use (or actually absent despite
-being assumed present) across the PlayFieldMultiplier/Agents-Of/SKILL-OF/
-RULES-OF/OTTOPOET-00Q orgs — generalized here with all project/account
+being assumed present) across several orgs in one swarm — generalized here with all project/account
 specifics removed.*
